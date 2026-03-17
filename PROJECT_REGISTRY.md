@@ -6,7 +6,8 @@ Central index of all projects. **Always check here before starting new work.**
 
 | Project | GitHub URL | Local Path | Status | Description | Last Updated |
 |---------|-----------|------------|--------|-------------|--------------|
-| mission-control | ssinjin/Mission-Control | ~/projects/mission-control | active | Next.js SSE dashboard for agent monitoring | 2026-03-14 |
+| mission-control | ssinjinx/Mission-Control | ~/projects/mission-control | active | Next.js SSE dashboard for agent monitoring | 2026-03-14 |
+| ai-context | ssinjinx/ai-context | ~/projects/ai-context | active | Central knowledge base for AI context sharing | 2026-03-16 |
 
 ## Status Key
 
