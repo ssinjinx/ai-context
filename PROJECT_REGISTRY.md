@@ -11,6 +11,7 @@ Central index of all projects. **Always check here before starting new work.**
 | ad-platform | ssinjinx/ad-platform | ~/ad-platform | active | AI-powered ad creation platform with ComfyUI image gen | 2026-03-16 |
 | open-claws-console | ssinjinx/open-claws-console | ~/open-claws-console | active | Mission Control dashboard for OpenClaw agent monitoring | 2026-03-16 |
 | mommy-mommy-api | ssinjinx/mommy-mommy-api | ~/mommy-mommy | active | Next.js app — Mommy scheduling/family organizer app | 2026-03-16 |
+| voice-tts | ssinjinx/voice-tts | ~/voice-tts | active | Paul Harvey-style TTS pipeline — LLM + Qwen3-TTS for long-form news audio | 2026-03-17 |
 
 ## Status Key
 
