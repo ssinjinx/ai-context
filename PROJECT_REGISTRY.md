@@ -8,6 +8,8 @@ Central index of all projects. **Always check here before starting new work.**
 |---------|-----------|------------|--------|-------------|--------------|
 | mission-control | ssinjinx/Mission-Control | ~/projects/mission-control | active | Next.js SSE dashboard for agent monitoring | 2026-03-14 |
 | ai-context | ssinjinx/ai-context | ~/projects/ai-context | active | Central knowledge base for AI context sharing | 2026-03-16 |
+| ad-platform | ssinjinx/ad-platform | ~/ad-platform | active | AI-powered ad creation platform with ComfyUI image gen | 2026-03-16 |
+| open-claws-console | ssinjinx/open-claws-console | ~/open-claws-console | active | Mission Control dashboard for OpenClaw agent monitoring | 2026-03-16 |
 
 ## Status Key
 
