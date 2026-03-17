@@ -10,6 +10,7 @@ Central index of all projects. **Always check here before starting new work.**
 | ai-context | ssinjinx/ai-context | ~/projects/ai-context | active | Central knowledge base for AI context sharing | 2026-03-16 |
 | ad-platform | ssinjinx/ad-platform | ~/ad-platform | active | AI-powered ad creation platform with ComfyUI image gen | 2026-03-16 |
 | open-claws-console | ssinjinx/open-claws-console | ~/open-claws-console | active | Mission Control dashboard for OpenClaw agent monitoring | 2026-03-16 |
+| mommy-mommy-api | ssinjinx/mommy-mommy-api | ~/mommy-mommy | active | Next.js app — Mommy scheduling/family organizer app | 2026-03-16 |
 
 ## Status Key
 
