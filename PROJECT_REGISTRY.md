@@ -13,6 +13,7 @@ Central index of all projects. **Always check here before starting new work.**
 | mommy-mommy-api | ssinjinx/mommy-mommy-api | ~/mommy-mommy | active | Next.js app — Mommy scheduling/family organizer app | 2026-03-16 |
 | voice-tts | ssinjinx/voice-tts | ~/voice-tts | active | Paul Harvey-style TTS pipeline — LLM + Qwen3-TTS for long-form news audio | 2026-03-17 |
 | slave-to-the-gods | ssinjinx/slave-to-the-gods | ~/projects/slave-to-the-gods | active | 140k word sci-fi/fantasy/romance novel — Egyptian gods are stranded alien vampires | 2026-03-17 |
+| children-of-the-sun | ssinjinx/children-of-the-sun | ~/projects/children-of-the-sun | active | Book 2 of Shetu Chronicles — Post-revolution, hybrid child, Ra's sacrifice | 2026-03-19 |
 
 ## Status Key
 
